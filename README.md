@@ -1,7 +1,7 @@
 ```py
 from Github.Readme import ReadmeProfile
 
-class KanekiWeb(ReadmeProfile):
+class zokow(ReadmeProfile):
     def __init__(self):
         self.Username = "zokow"
         self.Contacts = {
