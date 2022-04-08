@@ -3,37 +3,38 @@ from Github.Readme import ReadmeProfile
 
 class KanekiWeb(ReadmeProfile):
     def __init__(self):
-        self.Username = "KanekiWeb"
+        self.Username = "zokow"
         self.Contacts = {
-            "Discord": "Pαrαdox#1337",
-            "Youtube": "Kaneki Web",
-	    "Telegram": "t.me/PDXCommunity",
+            "Discord": "ʍoʞoz#2583",
         }
         self.Alias = {
-            "KanekiWeb",
-            "Paradox"
+            "zokow",
+            "orkaizz"
         }
         self.Infos = """
-            Hey, my name is KanekiWeb, 15 years old and I develop in my spare time, currently learning Golang.
+            cc c'est zokow.
         """        
         self.Knowledge = {
             "Web": {
                 "Html", "Css", "Javascript", "Php", "Sql"
             },
             "Basic": {
-                "Python", "Csharp", "Nodejs"
+                "Nodejs", "c++"
             },
             "Learning": {
-                "Golang", "C++"
+                "Python"
             }
         }
 ```
+
+
+<p align="center">
+	<img src="https://lanyard.cnrad.dev/api/913535402894319617?hideTimestamp=true"/>
+	
+	
 <p align="center">merci <a href="https:/github.com/kanekiweb">Kaneki</a> pour le readme.
 
 
 	</p>
-
-<p align="center">
-	<img src="https://lanyard.cnrad.dev/api/913535402894319617?hideTimestamp=true"/>
 
    
