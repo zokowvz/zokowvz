@@ -12,7 +12,7 @@ class KanekiWeb(ReadmeProfile):
             "orkaizz"
         }
         self.Infos = """
-            cc c'est zokow.
+            Owner LightGen, 5K members, Owner OverHaul bot certified.
         """        
         self.Knowledge = {
             "Web": {
