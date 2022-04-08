@@ -29,8 +29,11 @@ class KanekiWeb(ReadmeProfile):
         }
 ```
 <p align="center">
+
+      merci à <a href="https:/github.com/kanekiweb">Kaneki</a> pour le readme.
+	</p>
+
+<p align="center">
 	<img src="https://lanyard.cnrad.dev/api/913535402894319617?hideTimestamp=true"/>
-</p>
 
    
-      merci à <a href="https:/github.com/kanekiweb">Kaneki</a> pour le readme.
