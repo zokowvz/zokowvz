@@ -28,9 +28,9 @@ class KanekiWeb(ReadmeProfile):
             }
         }
 ```
-<p align="center">
+<p align="center"><a href="https:/github.com/kanekiweb">"Kaneki"</a> "pour le readme."
 
-      merci à <a href="https:/github.com/kanekiweb">Kaneki</a> pour le readme.
+
 	</p>
 
 <p align="center">
