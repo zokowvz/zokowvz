@@ -1,3 +1,4 @@
+```py
 from Github.Readme import ReadmeProfile
 
 class KanekiWeb(ReadmeProfile):
@@ -26,11 +27,10 @@ class KanekiWeb(ReadmeProfile):
                 "Golang", "C++"
             }
         }
-
+```
 <p align="center">
 	<img src="https://lanyard.cnrad.dev/api/913535402894319617?hideTimestamp=true"/>
 </p>
 
-<p align="center">
    
       merci à <a href="https:/github.com/kanekiweb">Kaneki</a> pour le readme.
