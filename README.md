@@ -12,7 +12,7 @@ class zokow(ReadmeProfile):
             "orkaizz"
         }
         self.Infos = """
-            Owner LightGen, 5K members, Owner OverHaul bot certified.
+            Owner LightGen, 7K members, Owner OverHaul bot certified.
         """        
         self.Knowledge = {
             "Web": {
