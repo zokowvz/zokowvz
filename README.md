@@ -1,30 +1,4 @@
-```py
-from Github.Readme import ReadmeProfile
-
-class zokow(ReadmeProfile):
-    def __init__(self):
-        self.Username = "zokow"
-        self.Contacts = {
-            "Discord": "ʍoʞoz#2583",
-        }
-        self.Alias = {
-            "zokow",
-            "orkaizz"
-        }
-        self.Infos = """
-            Owner LightGen, 7K members, Owner OverHaul bot certified.
-        """        
-        self.Knowledge = {
-            "Web": {
-                "Html", "Css", "Javascript", "Php", "Sql"
-            },
-            "Basic": {
-                "Nodejs", "c++"
-            },
-            "Learning": {
-                "Python"
-            }
-        }
+```i'm zokow.
 ```
 
 
